@@ -1,2 +1,0 @@
-# SkillTGR
-Codes for SkillTGR
