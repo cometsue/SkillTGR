@@ -1,0 +1,12 @@
+fire==0.7.1
+numpy==2.4.1
+pandas==3.0.0
+tqdm==4.67.1
+openai==2.15.0
+openpyxl==3.1.5
+openssl==3.6.0
+pylcs==0.1.1
+networkx==3.6.1
+chromadb==1.5.8
+rank-bm25==0.2.2
+sentence-transformers==5.4.1
